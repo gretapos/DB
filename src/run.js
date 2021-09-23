@@ -16,9 +16,9 @@ function input(msg) {
 
 const OPTIONS = {
   host: "192.168.1.2",
-  user: "apskaita",
-  password: "apskaita",
-  database: "apskaita",
+  user: "zmones",
+  password: "zmones1234",
+  database: "zmones1234",
   multipleStatements: true,
 };
 
