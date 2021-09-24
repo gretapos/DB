@@ -128,6 +128,17 @@ while (choise !== 0) {
   }
 }
 
+/*1. visi zmones
+2. naujas zmogus
+3. istrinti zmogu
+4. visi zmogaus adresai
+5. naujas zmogaus adresas
+6. istrinti zmogaus adresa
+7. visi zmogaus kontaktai
+8. naujas zmogaus kontaktas
+9. istrinti zmogaus kontakta
+0. baigti */
+
 // let id = await input("Ivesk id: ");
 // id = parseInt(id);
 // let pav = await input("Ivesk kita pavadinima: ");
